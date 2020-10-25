@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="buttonStart">Старт</string>
+    <string name="buttonPause">Пауза</string>
+    <string name="buttonReset">Сброс</string>
+    <string name="init_time">25:20:10</string>
+</resources>
